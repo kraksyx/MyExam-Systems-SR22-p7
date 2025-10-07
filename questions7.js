@@ -107,12 +107,12 @@ const questions = [
   {
     "question": "334. What material are the main wheels made of?",
     "options": ["Composite", "Aluminum", "Steel", "Rubber"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "335. What are the dimensions of the nose wheel and main wheels?",
     "options": ["Nose wheel: 5x5, Main wheels: 6x6", "Nose wheel: 4x4, Main wheels: 5x5", "Nose wheel: 6x6, Main wheels: 4x4", "Nose wheel: 6x6, Main wheels: 5x5"],
-    "correct": 3
+    "correct": 0
   },
   {
     "question": "336. How is the fuel injection system operated?",
@@ -127,7 +127,7 @@ const questions = [
   {
     "question": "338. What material is the main landing gear made of?",
     "options": ["Composite", "Steel", "Aluminum", "Titanium"],
-    "correct": 2
+    "correct": 0
   },
   {
     "question": "339. What material is the nose wheel made of?",
@@ -142,7 +142,7 @@ const questions = [
   {
     "question": "341. Where does the alternator air come from?",
     "options": ["Outside the aircraft", "Inside cabin", "Engine compartment", "Fuel tank"],
-    "correct": 0
+    "correct": 1
   },
   {
     "question": "342. Where is the adjustment for panel lights located?",
@@ -167,12 +167,12 @@ const questions = [
   {
     "question": "346. What fuel condition triggers a warning above 30 USG?",
     "options": ["Fuel imbalance", "Fuel pressure", "Fuel high", "Fuel low"],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "347. How long does it take for the parachute to deploy?",
     "options": ["2 seconds", "1 second", "5 seconds", "3 seconds"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "348. What indicates that pitch limits are exceeded?",
@@ -192,7 +192,7 @@ const questions = [
   {
     "question": "351. At what fuel imbalance level is an advisory issued?",
     "options": ["10 USG", "8 USG", "12 USG", "5 USG"],
-    "correct": 0
+    "correct": 1
   },
   {
     "question": "352. Where is the parachute located?",
@@ -207,7 +207,7 @@ const questions = [
   {
     "question": "354. How long does it take for the CAPS (parachute) to deploy?",
     "options": ["2 seconds", "1 second", "5 seconds", "3 seconds"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "355. Is the statement 'On MFD' true for the aircraft?",
@@ -252,7 +252,7 @@ const questions = [
   {
     "question": "363. What is the CAPS system, and does it have its own battery?",
     "options": ["CAPS is a parachute with a rocket, without its own battery", "CAPS is a parachute with a rocket, and it has its own battery", "CAPS is a parachute without a rocket, without its own battery", "CAPS is a parachute without a rocket, with its own battery"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "364. How does the aircraft taxi?",
@@ -260,3 +260,4 @@ const questions = [
     "correct": 3
   }
 ];
+
