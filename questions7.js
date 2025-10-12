@@ -122,7 +122,7 @@ const questions = [
   {
     "question": "337. Are the alternators self-exciting?",
     "options": ["Only one alternator is self-exciting", "Both alternators are self-exciting", "Neither alternator is self-exciting", "The alternators do not require excitation"],
-    "correct": 1
+    "correct": 2
   },
   {
     "question": "338. What material is the main landing gear made of?",
@@ -260,4 +260,5 @@ const questions = [
     "correct": 3
   }
 ];
+
 
